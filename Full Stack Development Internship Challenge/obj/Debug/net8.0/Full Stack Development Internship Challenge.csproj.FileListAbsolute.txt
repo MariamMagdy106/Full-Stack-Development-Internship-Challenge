@@ -1,0 +1,14 @@
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\bin\Debug\net8.0\Full Stack Development Internship Challenge.exe
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\bin\Debug\net8.0\Full Stack Development Internship Challenge.deps.json
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\bin\Debug\net8.0\Full Stack Development Internship Challenge.runtimeconfig.json
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\bin\Debug\net8.0\Full Stack Development Internship Challenge.dll
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\bin\Debug\net8.0\Full Stack Development Internship Challenge.pdb
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.AssemblyInfoInputs.cache
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.AssemblyInfo.cs
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.csproj.CoreCompileInputs.cache
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.dll
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\refint\Full Stack Development Internship Challenge.dll
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.pdb
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\Full Stack Development Internship Challenge.genruntimeconfig.cache
+C:\Users\TEBA\source\repos\Full Stack Development Internship Challenge\Full Stack Development Internship Challenge\obj\Debug\net8.0\ref\Full Stack Development Internship Challenge.dll

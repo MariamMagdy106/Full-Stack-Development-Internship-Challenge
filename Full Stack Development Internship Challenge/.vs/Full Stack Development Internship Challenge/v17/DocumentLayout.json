@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\models\\shippablebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\models\\shippablebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\services\\checkoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\services\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\services\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\models\\expirablebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\models\\expirablebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\interfaces\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\interfaces\\iexpirable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\interfaces\\iexpirable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\services\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\services\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|c:\\users\\teba\\source\\repos\\full stack development internship challenge\\full stack development internship challenge\\full stack development internship challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F53A988A-6FBE-4108-A879-0990914A2232}|Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj|solutionrelative:full stack development internship challenge\\full stack development internship challenge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Program.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Program.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T12:34:15.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Services\\CheckoutService.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Services\\CheckoutService.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Services\\CheckoutService.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Services\\CheckoutService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:38:23.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\Customer.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Models\\Customer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:35:54.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\Cart.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Models\\Cart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:36:07.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Services\\Printer.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Services\\Printer.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Services\\Printer.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Services\\Printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:38:30.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShippableBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\ShippableBehavior.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Models\\ShippableBehavior.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\ShippableBehavior.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Models\\ShippableBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:38:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\Product.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:35:37.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpirableBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\ExpirableBehavior.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Models\\ExpirableBehavior.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\ExpirableBehavior.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Models\\ExpirableBehavior.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:38:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Models\\CartItem.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:36:02.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShippable.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Interfaces\\IShippable.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Interfaces\\IShippable.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Interfaces\\IShippable.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Interfaces\\IShippable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:39:14.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IExpirable.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Interfaces\\IExpirable.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Interfaces\\IExpirable.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Interfaces\\IExpirable.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Interfaces\\IExpirable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:39:09.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Services\\ShippingService.cs",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Services\\ShippingService.cs",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Services\\ShippingService.cs",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Services\\ShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T13:38:37.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Full Stack Development Internship Challenge.csproj",
+              "DocumentMoniker": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj",
+              "RelativeDocumentMoniker": "Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj",
+              "ToolTip": "C:\\Users\\TEBA\\source\\repos\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj",
+              "RelativeToolTip": "Full Stack Development Internship Challenge\\Full Stack Development Internship Challenge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-05T13:37:59.213Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
